@@ -8,5 +8,3 @@ This project focuses on heart disease prediction using four popular machine lear
 The application of these machine learning algorithms to the dataset resulted in a high prediction accuracy of 89% for heart disease risk. Additionally, a web user interface was developed, enabling users to input their medical data and receive a heart disease risk prediction. This interface can assist healthcare professionals in quickly assessing a patient's risk and can also empower patients to monitor their own health and make informed decisions.
 
 The project concludes that machine learning models can substantially enhance heart disease risk prediction, providing clinicians with effective tools for preventive interventions.
-
-RESULTS:
