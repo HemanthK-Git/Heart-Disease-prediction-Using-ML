@@ -9,4 +9,9 @@ The application of these machine learning algorithms to the dataset resulted in 
 
 The project concludes that machine learning models can substantially enhance heart disease risk prediction, providing clinicians with effective tools for preventive interventions.
 
+RESULTS:
+
 ![ML Algorithm Results](https://github.com/Hemanth1954/Heart-Disease-prediction-Using-ML/assets/97118214/f9cec6d9-35f1-48df-8131-e0281fe705ef)
+
+![Web Interface Results](https://github.com/Hemanth1954/Heart-Disease-prediction-Using-ML/assets/97118214/ffdf5062-2c02-43e1-b2e4-f74785e1830b)
+
