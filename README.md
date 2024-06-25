@@ -1,4 +1,5 @@
-# Heart-Disease-prediction-Using-ML algorithm and web interface
+# Final Year Project
+# Heart-Disease-prediction-Using-ML algorithm with web interface
 
 Machine learning is extensively applied in various industries, including healthcare, where it plays a crucial role in predicting diseases like locomotor disorders and heart diseases. Early detection of heart disease is vital, as it is a leading cause of mortality worldwide. By predicting heart disease in advance, machine learning can offer valuable insights to doctors, aiding them in personalized diagnosis and treatment plans.
 
